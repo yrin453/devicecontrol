@@ -20,7 +20,7 @@ For some users, you may need to configure the MIDI input and Audio ouput by sele
 
 ##  Running the implementation
 
-Once everything is setup, the program should respond and visualise the keys pressed on your MIDI keyboard. Adjust the volume slider next to the speaker icon to set the playback volume of the keyboard. 
+Once everything is setup, the program should respond and visualise the keys pressed on your MIDI keyboard. Ensure that the speaker icon is illuminated and adjust the volume slider next to the speaker icon to set the playback volume of the keyboard. 
 
 To set the key combination that trigger each functionality (play/stop/pause), click the 'Locked' button on top of any of the functionality icons. The 'Locked' button will turn into a red 'Unlocked' button, which means that the key combination can be set. Simultaneously press all the keys of your desired combination and the entered key combination should show below the functionality icon. Once done, click the red 'Unlocked' button to lock the setup. Repeat this process for the other functionalities. 
 
